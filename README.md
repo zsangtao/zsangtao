@@ -19,7 +19,6 @@ Tại zSangtao, chúng tôi tin rằng sự sáng tạo luôn tiềm ẩn trong 
 ## 🔗 Liên kết nhanh
 - 🏠 [Trang chủ zSangtao](https://zsangtao.com)
 - 📝 [Trang Giới thiệu chi tiết](https://zsangtao.com/gioi-thieu/)
-- 📬 [Liên hệ tác giả / Hợp tác](https://zsangtao.com) *(Nếu có trang liên hệ riêng, bạn có thể thay link tại đây)*
 
 ---
 <p align="center"><i>Cảm ơn bạn đã ghé thăm không gian lưu trữ của zSangtao. Hãy cùng chúng tôi mở khóa những góc nhìn mới! 🚀✨</i></p>
